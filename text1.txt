@@ -1,3 +1,2 @@
 text branch two
-text branch one
 text feature1
